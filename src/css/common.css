@@ -16,6 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+.calendar-field {
+  text-align: center;
+  margin-bottom: 40px;
+}
 .timer {
   display: flex;
   justify-content: center;
